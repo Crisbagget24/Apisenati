@@ -1,0 +1,10 @@
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\bin\Release\netstandard2.0\PersonModel.deps.json
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\bin\Release\netstandard2.0\PersonModel.dll
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\bin\Release\netstandard2.0\PersonModel.pdb
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.AssemblyInfoInputs.cache
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.AssemblyInfo.cs
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.csproj.CoreCompileInputs.cache
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.dll
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.pdb
+C:\Users\cristhiam\source\repos\ApiSenati\PersonModel\obj\Release\netstandard2.0\PersonModel.csproj.AssemblyReference.cache

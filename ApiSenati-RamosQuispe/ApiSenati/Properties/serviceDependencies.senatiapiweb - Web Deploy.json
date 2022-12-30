@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.onprem",
+      "connectionId": "ConnectionStrings:senatidb1.database.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
